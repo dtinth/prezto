@@ -21,6 +21,7 @@ alias vim=nvim
 # Aliases from oh-my-zsh
 alias gst='git status'
 alias gaa='git add -A'
+alias ga='git add'
 
 # Stuffs
 export ANDROID_HOME=/usr/local/opt/android-sdk
